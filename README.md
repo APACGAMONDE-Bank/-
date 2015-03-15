@@ -63,13 +63,14 @@ ebay: ￥[8137](http://www.ebay.com/itm/Siemens-1LA7130-4AA10-Z-Servo-Motor-1LA7
 淘宝：￥[975](http://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-7363366108.41.PSMAZT&id=41110254035&rn=7f6cd7f117c6be3d8d4e51ba57ef6a32&abbucket=7)    
 
 
-##[ABB](http://new.abb.com/motors-generators/service)(阿西亚-布朗勃法瑞)  
+##[ABB](http://new.abb.com/motors-generators/service)(阿西亚-布朗勃法瑞)    
+
   
-型号：**M2BA112MB2**
+型号：**M2BA112MB2**     
 功率：4.0kw
 淘宝：￥[2053](http://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-7363366108.31.AVlR8m&id=39580162077&rn=d78e11aa53937b40675f3b74413ffa84&abbucket=7)    
 
-型号：**M2BA100LB2**  
+型号：**M2BA100LB2**     
 功率：3.0kw  
 淘宝：￥[1800](http://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-7363366108.49.AVlR8m&id=39609832568&rn=d78e11aa53937b40675f3b74413ffa84&abbucket=7)
 
