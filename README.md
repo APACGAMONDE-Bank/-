@@ -46,9 +46,9 @@ ebay: 无
 
 **安川 伺服驱动器**
   
-**SGDV-330A01A**：￥[4900](http://item.taobao.com/item.htm?spm=2013.1.w4023-7137378556.16.dsYXOy&id=41702693342)
-**SGDM-20ADA**：￥3200
-**SGDM-50ADA**：￥[6500](http://item.taobao.com/item.htm?spm=2013.1.20141001.8.WIut7Z&id=40739808380&scm=1007.10115.4482.i40726641988&pvid=286f9729-62c7-4c9b-b2cc-65eeccc6d75d)
+**SGDV-330A01A**：￥[4900](http://item.taobao.com/item.htm?spm=2013.1.w4023-7137378556.16.dsYXOy&id=41702693342)   
+**SGDM-20ADA**：￥3200   
+**SGDM-50ADA**：￥[6500](http://item.taobao.com/item.htm?spm=2013.1.20141001.8.WIut7Z&id=40739808380&scm=1007.10115.4482.i40726641988&pvid=286f9729-62c7-4c9b-b2cc-65eeccc6d75d)    
 
 
 
