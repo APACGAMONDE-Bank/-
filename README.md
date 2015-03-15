@@ -2,8 +2,8 @@
 
 
 
-[Kollmorgen](http://www.kollmorgen.cn/zh-cn/products/motors/servo/akm-series/akm-series-ac-synchronous-motors/akm%E7%B3%BB%E5%88%97%E4%BC%BA%E6%9C%8D%E7%94%B5%E6%9C%BA%E7%B3%BB%E7%BB%9F/)(科尔摩根 美国):
-型号：AKM32D-ANCNR-00 
+[Kollmorgen](http://www.kollmorgen.cn/zh-cn/products/motors/servo/akm-series/akm-series-ac-synchronous-motors/akm%E7%B3%BB%E5%88%97%E4%BC%BA%E6%9C%8D%E7%94%B5%E6%9C%BA%E7%B3%BB%E7%BB%9F/)(科尔摩根 美国):   
+型号：AKM32D-ANCNR-00   
 
 额定功率：1.19 kw     
 最大功率：1.59 kw
