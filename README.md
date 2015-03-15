@@ -29,19 +29,15 @@ ebay: ￥[5650](http://www.ebay.com/itm/DBL3-H00250-BR2-000-S40-servomotor-2-5Nm
 
 型号：**SGMGH-20ACA6C** （带刹车）  
 功率：2.00 kw   
-淘宝：￥[2800]（上海）(http://item.taobao.com/item.htm?spm=a230r.1.14.8.hGGR3C&id=40706242884&ns=1&abbucket=16&_u=ffdpsdu2829#detail)      
-ebay: ￥[12000]（深圳）(http://www.ebay.com/itm/200V-2KW-2000W-Sigma-II-AC-Servo-Motor-SGMGH-20ACA6C-24VDC-brake-Original-New-/121559936047?
-
-pt=LH_DefaultDomain_0&hash=item1c4d896c2f)（价格12000+关税0+运费*）   
-ebay: ￥[7200]（香港）(http://www.ebay.com/itm/Yaskawa-servo-motor-SGMGH-20ACA6C-2-month-warranty-/181227118497)（价格7200+关税0+运费*）     
+淘宝：￥[2800](http://item.taobao.com/item.htm?spm=a230r.1.14.8.hGGR3C&id=40706242884&ns=1&abbucket=16&_u=ffdpsdu2829#detail) （上海）     
+ebay: ￥[12000](http://www.ebay.com/itm/200V-2KW-2000W-Sigma-II-AC-Servo-Motor-SGMGH-20ACA6C-24VDC-brake-Original-New-/121559936047?pt=LH_DefaultDomain_0&hash=item1c4d896c2f)（深圳）
+ebay: ￥[7200](http://www.ebay.com/itm/Yaskawa-servo-motor-SGMGH-20ACA6C-2-month-warranty-/181227118497)（香港）      
 
 
 型号：**SGMGH-09ACA61** (无刹车)  
 功率：0.85kw   
-淘宝：￥[3200]（上海）(http://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7612000694.19.VcZ82a&id=39550854369)   
-ebay: ￥[5500]（上海）(http://www.ebay.com/itm/New-In-Box-Yaskawa-AC-Servo-Motor-SGMGH-09ACA61-/141407895215?pt=LH_DefaultDomain_0&hash=item20ec913eaf)（
-
-价格5500+关税0+运费*） 
+淘宝：￥[3200](http://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7612000694.19.VcZ82a&id=39550854369) （上海）  
+ebay: ￥[5500](http://www.ebay.com/itm/New-In-Box-Yaskawa-AC-Servo-Motor-SGMGH-09ACA61-/141407895215?pt=LH_DefaultDomain_0&hash=item20ec913eaf)（上海）     
 
 型号：**SGMGV-1EADA61**  
 功率：15kw      
@@ -52,9 +48,7 @@ ebay: 无
   
 **SGDV-330A01A**：￥[4900](http://item.taobao.com/item.htm?spm=2013.1.w4023-7137378556.16.dsYXOy&id=41702693342)
 **SGDM-20ADA**：￥3200
-**SGDM-50ADA**：￥[6500](http://item.taobao.com/item.htm?
-
-spm=2013.1.20141001.8.WIut7Z&id=40739808380&scm=1007.10115.4482.i40726641988&pvid=286f9729-62c7-4c9b-b2cc-65eeccc6d75d)
+**SGDM-50ADA**：￥[6500](http://item.taobao.com/item.htm?spm=2013.1.20141001.8.WIut7Z&id=40739808380&scm=1007.10115.4482.i40726641988&pvid=286f9729-62c7-4c9b-b2cc-65eeccc6d75d)
 
 
 
