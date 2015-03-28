@@ -15,6 +15,10 @@
 处理器:AM437X  主频:1G 架构：ARM Cortex A8   
 
 
+**树莓派2代**      
+￥[279](http://detail.tmall.com/item.htm?spm=a230r.1.14.1.VIaeyA&id=43964486801&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=6)       
+处理器:Broadcom BCM2836  主频:900MHz 架构：ARM Cortex-A7 四核
+
 
 
 
