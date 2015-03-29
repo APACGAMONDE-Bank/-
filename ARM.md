@@ -3,7 +3,7 @@
 ebay:无    
 处理器：TI Sitara AM5728 双核 主频：1.5G 架构：Cortex-A15   
 上市时间：2015.02    
-[news](http://linuxgizmos.com/beagleboard-x15-features-dual-core-cortex-a15-sitara/)  
+[news about it](http://linuxgizmos.com/beagleboard-x15-features-dual-core-cortex-a15-sitara/)  
 [wiki](http://www.elinux.org/Beagleboard:BeagleBoard-X15)   
 
 **beagleBoard-xM C2**   
