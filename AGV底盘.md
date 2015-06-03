@@ -7,7 +7,7 @@
 
 ￥1598   
 440 mm x 320 mm   
-![2](http://item.taobao.com/item.htm?spm=a230r.1.14.1.nkOrCC&id=43723847425&ns=1&abbucket=7#detail)   
+![2](http://gd1.alicdn.com/bao/uploaded/i1/TB1EF22HXXXXXbEXpXXXXXXXXXX_!!0-item_pic.jpg)   
 
 ￥700-800      
 儿童电动车     
