@@ -15,7 +15,8 @@
 ![3](http://img01.taobaocdn.com/imgextra/i1/1974257993/TB2PZk5bpXXXXasXpXXXXXXXXXX_!!1974257993.jpg)     
 
 ￥569   
-履带式底盘   
+履带式底盘 
+383mm*204mm*84mm
 ![4](http://gd4.alicdn.com/imgextra/i4/544675804/TB2aaFQbpXXXXbAXpXXXXXXXXXX-544675804.jpg)    
 
 
